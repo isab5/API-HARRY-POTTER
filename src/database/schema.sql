@@ -24,5 +24,5 @@ INSERT INTO houses (name, founder) VALUES
 INSERT INTO wizards (name, house_id) VALUES 
     ('Harry Potter', 1),
     ('Draco Malfoy', 2),
-    ('Luna Lovegood', 4),
-    ('Cedrico Diggory', 5);
+    ('Luna Lovegood', 3),
+    ('Cedrico Diggory', 4);
